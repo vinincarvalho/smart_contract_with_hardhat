@@ -138,9 +138,3 @@ export default StorageModule;
    ```
 
 ---
-
-5. Envie os arquivos:
-   ```bash
-   git branch -M main
-   git push -u origin main
-   ```
