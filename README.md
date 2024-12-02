@@ -1,5 +1,5 @@
 ```markdown
-# 💻 SmartContractHardhat
+# 💻 ProjetoHardhat
 
 Este repositório contém o desenvolvimento, teste e implantação de um contrato inteligente simples utilizando Hardhat.
 
@@ -138,37 +138,6 @@ export default StorageModule;
    ```
 
 ---
-
-## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-```
-
----
-
-Adicione este conteúdo no arquivo `README.md` e suba no GitHub usando os seguintes comandos no terminal:
-
-### **Comandos para Subir o Projeto no GitHub**
-
-1. Inicialize o repositório Git:
-   ```bash
-   git init
-   ```
-
-2. Adicione os arquivos:
-   ```bash
-   git add .
-   ```
-
-3. Faça o commit:
-   ```bash
-   git commit -m "Primeira versão do projeto Storage com Hardhat"
-   ```
-
-4. Adicione o repositório remoto:
-   ```bash
-   git remote add origin <URL_DO_SEU_REPOSITORIO>
-   ```
 
 5. Envie os arquivos:
    ```bash
