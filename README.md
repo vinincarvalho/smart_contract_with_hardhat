@@ -57,7 +57,7 @@ contract Storage {
 
 ---
 
-## 🧪 Testes Unitários
+## 🧪 Testes
 
 Os testes foram desenvolvidos utilizando Mocha/Chai e estão localizados na pasta `test/`. Eles cobrem os seguintes cenários:
 
